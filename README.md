@@ -17,7 +17,7 @@ docker run \
 ## Init the Database 
 
 ```bash
-python init.db
+python init.py
 
 ```
 
